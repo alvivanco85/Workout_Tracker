@@ -1,6 +1,6 @@
 # Workout_Tracker
 
-An application that let's you interact with information stored in a MySQL database. 
+An application that let's helps you track your daily workouts. 
 
 # Table of Contents
 1. [User Story](#User-Story)
