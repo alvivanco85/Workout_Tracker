@@ -1,6 +1,6 @@
 # Workout_Tracker
 
-An application that let's helps you track your daily workouts. 
+An application that helps you track your daily workouts. 
 
 # Table of Contents
 1. [User Story](#User-Story)
