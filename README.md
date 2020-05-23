@@ -28,4 +28,4 @@ Open up the root directory in your terminal. "Npm i" to install packages.
 
 ## Links
 * Github Repo - https://github.com/alvivanco85/Workout_Tracker
-* Heroku app - 
+* Heroku app - https://hidden-sands-45687.herokuapp.com/
